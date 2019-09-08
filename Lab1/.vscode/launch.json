@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "Solución propuesta_1e51bfea"
+        }
+    ]
+}
